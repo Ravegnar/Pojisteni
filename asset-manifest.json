@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pojisteni/static/css/main.e6c13ad2.css",
+    "main.js": "/Pojisteni/static/js/main.87b52c17.js",
+    "index.html": "/Pojisteni/index.html",
+    "main.e6c13ad2.css.map": "/Pojisteni/static/css/main.e6c13ad2.css.map",
+    "main.87b52c17.js.map": "/Pojisteni/static/js/main.87b52c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.87b52c17.js"
+  ]
+}
